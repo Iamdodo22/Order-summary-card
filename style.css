@@ -94,3 +94,6 @@ button{
     color: hsl(224, 23%, 55%);
     font-size: 12px;
 }
+.attribution a{
+    text-decoration: none;
+}
