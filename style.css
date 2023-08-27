@@ -31,6 +31,7 @@ body{
 }
 .container1{
     width: 100%;
+    object-fit: cover;
     border-radius: 6px 6px 0 0;
 }
 .container2{
