@@ -17,6 +17,11 @@ body{
     background-position-y: -90%;
     background-repeat: no-repeat;
 }
+@media (max-width:500px) {
+   body{
+    gap: 0;
+   } 
+}
 .main---container{
     height: auto;
     display: flex;
