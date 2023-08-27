@@ -19,7 +19,7 @@ body{
 }
 @media (max-width:500px) {
    body{
-    gap: 0;
+    overflow: hidden;
    } 
 }
 .main---container{
